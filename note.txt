@@ -1,0 +1,12 @@
+youtube
+
+https://www.youtube.com/watch?v=GPvY3KU4DGk
+
+source code:
+
+https://github.com/Tivotal/Responsive-Sidebar-Menu-with-html-CSS
+
+ama bo desing icons menu bakar de 
+https://boxicons.com/
+
+<i class='bx bx-location-plus'></i>
